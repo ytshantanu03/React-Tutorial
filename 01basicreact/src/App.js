@@ -3,6 +3,7 @@ function App() {
   return (
     <>
       <Madara />
+      <h1>Wake up to reality</h1>
     </>
   );
 }
